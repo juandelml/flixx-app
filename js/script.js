@@ -461,6 +461,9 @@ function init() {
         case '/shows.html':
             displayPopularShows();
             break;
+            case '/shows':
+            displayPopularShows();
+            break;
         case '/movie-details.html':
             displayMovieDetails();
             break;
